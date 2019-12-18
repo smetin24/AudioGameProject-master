@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F527B027-5654-4313-A333-40FED3E832C7}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="FOOTSTEPS" ID="{F527B027-5654-4313-A333-40FED3E832C7}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="PlayerDefaultFootsteps" ID="{F4F7DE71-2004-4D0B-8191-74CAD4222CAF}"/>
+				<Event Name="PlayerCarpetFootsteps" ID="{7B95BC9E-1FBF-444C-A203-F38C890460EA}"/>
+				<Event Name="DogDefaultFootsteps" ID="{C5970E24-A9DB-400D-8DF0-951CE397A485}"/>
+				<Event Name="DogCarpetFoodSteps" ID="{2A089E79-92B8-4E8E-B511-3C262B26B364}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

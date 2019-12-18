@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F1737B7D-93FE-4BA4-9B0C-4696A6DD9CC7}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="DOG" ID="{F1737B7D-93FE-4BA4-9B0C-4696A6DD9CC7}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Barking" ID="{8D535572-443A-4C77-BEB3-9A0F6B188B8C}"/>
+				<Event Name="Patting" ID="{015A8865-1EA7-4F66-B96E-7932AFCA2172}"/>
+				<Event Name="FoodEating" ID="{76852892-A0F0-4503-982F-2F533DC2A2C7}"/>
+				<Event Name="Whine" ID="{2E840BC4-4208-482B-94B6-5C4786F88747}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{295BACDC-FFAA-4A37-90AD-4A9A0538773C}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="Ambiance" ID="{295BACDC-FFAA-4A37-90AD-4A9A0538773C}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Street" ID="{4E1F758B-E2B8-44CF-B1C3-A5BCA26C3FF7}"/>
+				<Event Name="Indoor" ID="{BA82282B-FBC5-4179-8B07-835FA126D377}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

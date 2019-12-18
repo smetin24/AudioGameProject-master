@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{7CA4E85B-DC57-4438-B0BB-42245BF3C175}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="INTERACTION" ID="{7CA4E85B-DC57-4438-B0BB-42245BF3C175}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="WindowClosing" ID="{FCBC71AF-E665-44D0-9863-576AC72FC047}"/>
+				<Event Name="PhoneRing" ID="{7BC5ED25-5953-4190-B4C6-0F7ED7EE59E9}"/>
+				<Event Name="Dialogue" ID="{7D5FE350-21C9-431A-A734-643124A9B731}"/>
+				<Event Name="DoorOpening" ID="{0D2EDB6E-220C-4AEC-B61D-4B4C569D508A}"/>
+				<Event Name="DogFeeding" ID="{6312EC8B-E338-49B9-9677-661C06CF3E74}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
